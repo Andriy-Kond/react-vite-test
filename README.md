@@ -7,7 +7,7 @@ Goal: Create tweet cards and add interactivity at the click of a button.
 Model:
 https://www.figma.com/file/zun1oP6NmS2Lmgbcj6e1IG/Test?node-id=0%3A1&t=VoiYTfiXggVItgVd-1
 
-Tasks:
+Tasks(3):
 
 1. Backend on mockapi.io UI-service. End point:
    https://6454a8f5a74f994b33457e38.mockapi.io/
